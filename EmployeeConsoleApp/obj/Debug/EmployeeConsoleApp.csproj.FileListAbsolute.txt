@@ -1,0 +1,10 @@
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\bin\Debug\EmployeeConsoleApp.exe.config
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\bin\Debug\EmployeeConsoleApp.exe
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\bin\Debug\EmployeeConsoleApp.pdb
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\bin\Debug\EmployeeService.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\bin\Debug\EmployeeService.pdb
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.csproj.CopyComplete
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.exe
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.pdb

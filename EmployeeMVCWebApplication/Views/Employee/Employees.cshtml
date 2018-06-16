@@ -1,0 +1,20 @@
+﻿@model EmployeeMVCWebApplication.Models.EmployeeFileModel
+
+@{
+    ViewBag.Title = "Employees";
+}
+
+<h2>Employees</h2>
+
+@using (Html.BeginForm(actionName: "Employees", controllerName: "Employee", method: FormMethod.Post, htmlAttributes: new
+{ enctype = "multipart/form-data" }))
+{
+    <text>Please upload .csv file related to employees:</text>
+    <br />
+    @Html.TextBoxFor(m => m.File, new { type = "file" })
+    @Html.ValidationMessageFor(m => m.File)
+
+    <br />
+    <input type="submit" id="btnSubmit" name="btnSubmit" value="Upload File" />
+}
+

@@ -1,0 +1,16 @@
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\EmployeeService.Test.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\EmployeeService.Test.pdb
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\EmployeeService.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\EmployeeService.pdb
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\obj\Debug\EmployeeService.Test.csprojResolveAssemblyReference.cache
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\obj\Debug\EmployeeService.Test.csproj.CoreCompileInputs.cache
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\obj\Debug\EmployeeService.Test.csproj.CopyComplete
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\obj\Debug\EmployeeService.Test.dll
+C:\Users\Developer01\source\repos\LACERAInterviewSolution\EmployeeService.Test\obj\Debug\EmployeeService.Test.pdb
